@@ -1,2 +1,12 @@
-
-/* Your CSS Code here. */
+button:hover{
+	background-color:yellow;
+	border-radius:30px;
+	font-style:black;
+	color:black;
+}
+button{
+	color:white;
+	background-color:black;
+	border:none;
+	border-radius:5px;
+}
